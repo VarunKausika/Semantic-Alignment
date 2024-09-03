@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "semantic-alignment"
+version = "0.1.0"
+description = "A package for aligning confidences of LLMs"
+authors = ["Varun Kausika, Chris Lazar"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11.9"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.2"
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,4 @@
+/.venv/
+poetry.lock
+**/cache
+**/__pycache__
