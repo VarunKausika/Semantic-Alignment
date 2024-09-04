@@ -1,6 +1,12 @@
 ## Semantic-Alignment
 
-### References:
+### Main references:
+
+1. https://arxiv.org/abs/2306.13063
+2. https://arxiv.org/abs/2302.09664
+3. https://arxiv.org/pdf/2305.16960
+
+### Other References:
 
 1. https://arxiv.org/abs/2401.08694
 2. https://arxiv.org/abs/2404.17287
